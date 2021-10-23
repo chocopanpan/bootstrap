@@ -1,0 +1,27 @@
+body {
+    background-color: #E5D4ED;
+    margin: 3px;
+    padding: 3px;
+}
+
+form {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    margin: auto;
+    padding-left: 1000px;
+    padding-right: 1000px;
+}
+
+h3, h2, p {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    margin-top: 20px;
+}
+
+table {
+    margin: auto;
+    padding: 500px;
+}
